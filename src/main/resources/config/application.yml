@@ -1,0 +1,5 @@
+spring:
+  activemq:
+    broker-url: localhost:8161
+    password: admin
+    user: admin
